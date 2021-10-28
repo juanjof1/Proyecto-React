@@ -4,7 +4,7 @@ import { Login } from "./Components/Login";
 import { movies } from "./Components/Movies";
 import { usersBase } from "./Components/usersBase";
 import { header } from "./Components/header";
-import { About } from "./Components/About";
+import ReactDOM from "react-dom";
 
 export default function App() {
   return (
